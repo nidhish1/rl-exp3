@@ -1,0 +1,7 @@
+# Versions used to build and test the reference solution (Python 3.14.5, macOS arm64).
+mujoco==3.12.0
+numpy==2.5.2
+scipy==1.18.1
+matplotlib==3.11.2
+imageio==2.38.1
+imageio-ffmpeg==0.7.0
